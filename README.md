@@ -35,3 +35,29 @@ Here are some interesting things from the analysis:
 | `Blinkit.pbix` | Main Power BI dashboard file |
 | `classPorject.pbix` | Class project version of the dashboard |
 | `power.pbix` | Additional Power BI analysis file |
+
+## How to Use
+
+1. Download the `.pbix` files from this repo
+2. Open them in **Power BI Desktop** (free from Microsoft)
+3. The dashboard will load with all the charts and filters ready to explore
+4. You can also open the CSV file in Excel to look at the raw data
+
+## What I Learned
+
+- How to clean messy data and make it ready for analysis
+- How to build interactive dashboards in Power BI
+- How to use filters, slicers, and drill-down features
+- How to find patterns and tell a story using data
+- How store size and location affect sales performance
+
+## Contact
+
+- **Name:** Rajat Kumar
+- **Email:** rajatkumar39008@gmail.com
+- **LinkedIn:** [linkedin.com/in/rajatkumar96](http://www.linkedin.com/in/rajatkumar96)
+- **GitHub:** [github.com/rajatkumar233](https://github.com/rajatkumar233)
+
+---
+
+Made with ❤ by Rajat Kumar

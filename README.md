@@ -26,3 +26,12 @@ Here are some interesting things from the analysis:
 - Tier 3 cities have surprisingly strong sales numbers
 - Low fat products sell slightly more than regular fat ones
 - Customer ratings are mostly between 3.5 and 4.0 across all stores
+
+## Files in This Repo
+
+| File | What It Is |
+|------|-----------|
+| `BlinkIT Grocery Data.xlsx - BlinkIT Grocery Data.csv` | The raw grocery dataset with 8,500+ rows |
+| `Blinkit.pbix` | Main Power BI dashboard file |
+| `classPorject.pbix` | Class project version of the dashboard |
+| `power.pbix` | Additional Power BI analysis file |
